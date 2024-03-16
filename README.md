@@ -1,1 +1,1 @@
-This repository contains artifacts created while reading "Learning Go".
+Solutions for the exercises in the "Learning Go" book.
